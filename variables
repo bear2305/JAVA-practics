@@ -5,6 +5,6 @@ public class Main{
                String class = "computere science";
              System.out.print("\nHello World\n"); 
               //OR print with newline println
-             System.out.println(name,age,class); 
+             System.out.println(name,age,class,"\n"); 
        }
 }
