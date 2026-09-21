@@ -1,6 +1,7 @@
 public class Main{
        public static void helloworld(String[] args){
-              String name="Banahene Emmanuel adamnor";
+              String name = "Banahene Emmanuel adamnor";
+              int age = 23;
              System.out.print("\nHello World\n"); 
               //OR print with newline println
              System.out.println("\n 2nd Hello World \n"); 
