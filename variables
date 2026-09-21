@@ -3,8 +3,13 @@ public class Main{
               String name = "Banahene Emmanuel adamnor";
               int age = 23;
               String class = "computere science";
+              float =234.99
               System.out.print("\nHello World\n"); 
               //OR print with newline println
               System.out.println(name,age,class,"\n"); 
+
+
+
+
        }
 }
