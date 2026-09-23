@@ -1,7 +1,0 @@
-int age = 23 ;
-if (age < 20){
- System.out.printLn("IT You")
-}
-else if (age > 23){
-  System.out.printLn("IT NOT YOU");
-}
