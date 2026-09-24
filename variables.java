@@ -1,7 +1,7 @@
 public class Main{
        public static void helloworld(String[] args){
               String name = "Banahene Emmanuel adamnor";
-              int index_number = 2425
+              int index_number = 2425402521
               int age = 23;
               String class = "computere science";
               float decimals = 234.99;
