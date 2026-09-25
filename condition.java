@@ -1,3 +1,4 @@
+// my java conditional statement
 int age = 23 ;
 if (age < 20){
  System.out.println("IT You");
