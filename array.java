@@ -14,5 +14,7 @@ System.out.println(strind[6]);
 System.out.println(strind.length);
 
 for (i=0;,i!=5;){
-  System.out.println(integer[]);
+  System.out.println(integer[i]);
+  i++;
 }
+
