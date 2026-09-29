@@ -10,5 +10,6 @@ integer = {2,3,4,5,5};
 // Method 2: Declare and initialize with values immediately
 
   String[] strind = {"h","e","l","l","o"," ", "world"," ","JAVA"};
-System.out.printLn(strind[6]);
+System.out.println(strind[6]);
+System.out.println(strind.length);
 
