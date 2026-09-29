@@ -3,18 +3,22 @@
 
 
 // Method 1: Declare and allocate memory with a fixed size (defaults to 0)
-int[] integer = new int[5];
-integer = {2,3,4,5,5};
+public class Main{
+    public static void hello(String[] args){
+        
+       int[] integer = new int[5];
+       integer = {2,3,4,5,5};
 
 
-// Method 2: Declare and initialize with values immediately
+       // Method 2: Declare and initialize with values immediately
 
-  String[] strind = {"h","e","l","l","o"," ", "world"," ","JAVA"};
-System.out.println(strind[6]);
-System.out.println(strind.length);
+     String[] strind = {"h","e","l","l","o"," ", "world"," ","JAVA"};
+     System.out.println(strind[6]);
+     System.out.println(strind.length);
 
-for (i=0;,i!=5;){
-  System.out.println(integer[i]);
-  i++;
+     for (i=0;,i!=5;){
+        System.out.println(integer[i]);
+        i++;
+    }
+     //end of inner}
 }
-
