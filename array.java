@@ -1,8 +1,5 @@
 //arrays in java
 
-
-
-
 public class arrayxe{
     public static void main(String[] args){
         // Method 1: Declare and allocate memory with a fixed size (defaults to 0)
