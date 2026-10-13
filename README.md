@@ -1,2 +1,2 @@
 # JAVA-practics
-my java journey mm
+my java journey 
